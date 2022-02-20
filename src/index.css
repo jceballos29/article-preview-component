@@ -19,3 +19,11 @@ body {
     font-family: "Manrope", sans-serif;
     font-size: 13px;
 }
+
+h1, h4 {
+  color: var(--very-dark-grayish-blue);
+}
+
+p {
+  color: var(--desaturated-dark-blue);
+}
